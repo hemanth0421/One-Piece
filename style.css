@@ -49,4 +49,8 @@ html{
         justify-content: center;
         align-content: center;
     }
+
+    .crew-member{
+        width: 100%;
+    }
 }
